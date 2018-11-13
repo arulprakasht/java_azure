@@ -87,6 +87,7 @@
               <sources>
                 <source>src/gen/java</source>
               </sources>
+               <finalName>myJar</finalName> 
             </configuration>
           </execution>
         </executions>
